@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>php프로젝트 상수</title>
+<title>php프로젝트 상수의 처리</title>
 
 </head>
 <body>
